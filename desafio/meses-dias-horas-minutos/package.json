@@ -1,0 +1,14 @@
+{
+  "name": "meses-dias-horas-minutos",
+  "version": "1.0.0",
+  "description": "Programa que informa quantos meses, dias, horas, minutos de nascido você tem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

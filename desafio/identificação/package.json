@@ -1,0 +1,17 @@
+{
+  "name": "identificador",
+  "version": "1.0.0",
+  "description": "identificador de pessoas mais novas e mais velhas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "for"
+  ],
+  "author": "mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

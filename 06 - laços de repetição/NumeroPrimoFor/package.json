@@ -1,0 +1,17 @@
+{
+  "name": "numeroprimofor",
+  "version": "1.0.0",
+  "description": "verificar se um valor informado, corresponde a um número primo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "for"
+  ],
+  "author": "mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

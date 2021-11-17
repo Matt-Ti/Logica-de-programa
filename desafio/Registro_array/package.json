@@ -1,0 +1,17 @@
+{
+  "name": "registro_array",
+  "version": "1.0.0",
+  "description": "Programa que registra o nome do individuo, sexo e data de nascimento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "Mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

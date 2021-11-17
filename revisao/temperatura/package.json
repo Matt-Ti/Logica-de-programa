@@ -1,0 +1,14 @@
+{
+  "name": "temperatura",
+  "version": "1.0.0",
+  "description": "programa que calcula a temperatura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "revisao"
+  ],
+  "author": "mateus s.",
+  "license": "ISC"
+}

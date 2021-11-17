@@ -1,0 +1,17 @@
+{
+  "name": "valorintwhile",
+  "version": "1.0.0",
+  "description": "valor inteiro com while",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "while"
+  ],
+  "author": "mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

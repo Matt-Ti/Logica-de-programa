@@ -1,0 +1,19 @@
+{
+  "name": "parouimpar",
+  "version": "1.0.0",
+  "description": "Programa que verifica se o número informado pelo usuário é par ou impar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "if",
+    "pacotes"
+  ],
+  "author": "mateus S",
+  "license": "ISC",
+  "dependencies": {
+    "estudos": "^1.0.2",
+    "readline-sync": "^1.4.10"
+  }
+}

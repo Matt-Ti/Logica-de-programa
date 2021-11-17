@@ -1,0 +1,17 @@
+{
+  "name": "vetor-insere-ordenado",
+  "version": "1.0.0",
+  "description": "programa que insere ordenadamente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vetor"
+  ],
+  "author": "mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "complemento": "^1.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "numeros-pares",
+  "version": "1.0.0",
+  "description": "programa que insere e da outras opções ao cliente para ter uma boa navegação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

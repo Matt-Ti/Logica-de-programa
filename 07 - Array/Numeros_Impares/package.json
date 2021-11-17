@@ -1,0 +1,17 @@
+{
+  "name": "numeros_impares",
+  "version": "1.0.0",
+  "description": "Programa que armazena os numeros impares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

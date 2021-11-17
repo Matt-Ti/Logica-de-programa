@@ -1,0 +1,11 @@
+{
+  "name": "complemento",
+  "version": "1.0.7",
+  "description": "Complemento para ordenação de vetor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mateus s",
+  "license": "ISC"
+}

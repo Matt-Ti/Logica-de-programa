@@ -1,0 +1,17 @@
+{
+  "name": "leituradepessoas",
+  "version": "1.0.0",
+  "description": "Leitura de pessoas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leitura"
+  ],
+  "author": "Mateus S",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

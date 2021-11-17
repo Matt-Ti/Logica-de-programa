@@ -1,0 +1,14 @@
+{
+  "name": "idadefuncao",
+  "version": "1.0.0",
+  "description": "programa que exibir a idade, utilizando funçôes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "funçôes"
+  ],
+  "author": "mateus s",
+  "license": "ISC"
+}

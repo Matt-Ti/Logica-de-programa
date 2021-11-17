@@ -1,0 +1,17 @@
+{
+  "name": "leiturade2valores",
+  "version": "1.0.0",
+  "description": "Leitura de qual valor é maior ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "valor"
+  ],
+  "author": "mateus s",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
